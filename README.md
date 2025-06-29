@@ -9,6 +9,11 @@
 
 **Kasumi CRUD** es una aplicación web desarrollada con Spring Boot que implementa operaciones CRUD (Create, Read, Update, Delete) para la gestión de clientes. El proyecto está diseñado para demostrar la integración entre Spring Boot y PostgreSQL, proporcionando una API REST completa para el manejo de datos de clientes.
 
+🎥 Demostración
+
+Puedes ver una demostración del funcionamiento del proyecto en el siguiente enlace:
+👉 [Visita el proyecto Kasumi](https://youtu.be/RUQfBsnZ6II)
+
 ## ✨ Características
 
 - 🔧 **Spring Boot 3.5.3** - Framework principal
